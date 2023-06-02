@@ -1,0 +1,245 @@
+id_especie,nombre,orden,familia,genus,nombre_comun,conservacion,invasivo
+0,Motacilla alba,Passeriformes,Motacillidae,Motacilla,White Wagtail,0,0
+1,Passer domesticus,Passeriformes,Passeridae,Passer,House Sparrow,0,0
+2,Pica pica,Passeriformes,Corvidae,Pica,Eurasian Magpie,0,0
+3,Turdus merula,Passeriformes,Turdidae,Turdus,Eurasian Blackbird,0,0
+4,Columba palumbus,Columbiformes,Columbidae,Columba,Common Wood-Pigeon,0,0
+5,Anas platyrhynchos,Anseriformes,Anatidae,Anas,Bunásuorsá,0,0
+6,Motacilla cinerea,Passeriformes,Motacillidae,Motacilla,Gray Wagtail,0,0
+7,Phoenicurus ochruros,Passeriformes,Muscicapidae,Phoenicurus,Black Redstart,0,0
+8,Erithacus rubecula,Passeriformes,Muscicapidae,Erithacus,European Robin,1,0
+9,Carduelis carduelis,Passeriformes,Fringillidae,Carduelis,European Goldfinch,0,0
+10,Corvus corone,Passeriformes,Corvidae,Corvus,Carrion Crow,0,0
+11,Serinus serinus,Passeriformes,Fringillidae,Serinus,European Serin,0,0
+12,Chroicocephalus ridibundus,Charadriiformes,Laridae,Chroicocephalus,Black-Headed Gull,0,0
+13,Ardea cinerea,Pelecaniformes,Ardeidae,Ardea,Grey Heron,1,0
+14,Fringilla coelebs,Passeriformes,Fringillidae,Fringilla,Common Chaffinch,0,0
+15,Hirundo rustica,Passeriformes,Hirundinidae,Hirundo,Barn Swallow,0,0
+16,Parus major,Passeriformes,Paridae,Parus,Great Tit,0,0
+17,Delichon urbicum,Passeriformes,Hirundinidae,Delichon,Common House-Martin,1,0
+18,Phylloscopus collybita,Passeriformes,Phylloscopidae,Phylloscopus,Common Chiffchaff,0,0
+19,Upupa epops,Bucerotiformes,Upupidae,Upupa,Eurasian Hoopoe,0,0
+20,Regulus ignicapilla,Passeriformes,Regulidae,Regulus,Firecrest,0,0
+21,Buteo buteo,Accipitriformes,Accipitridae,Buteo,Common Buzzard,1,0
+22,Troglodytes troglodytes,Passeriformes,Troglodytidae,Troglodytes,Eurasian Wren,0,0
+23,Columba livia,Columbiformes,Columbidae,Columba,Rock Pigeon,0,0
+24,Streptopelia decaocto,Columbiformes,Columbidae,Streptopelia,Eurasian Collared Dove,0,0
+25,Turdus philomelos,Passeriformes,Turdidae,Turdus,Song Thrush,0,0
+26,Sylvia atricapilla,Passeriformes,Sylviidae,Sylvia,Eurasian Blackcap,0,0
+27,Saxicola rubicola,Passeriformes,Muscicapidae,Saxicola,European Stonechat,0,0
+28,Larus michahellis,Charadriiformes,Laridae,Larus,Yellow-Legged Gull,0,0
+29,Apus apus,Apodiformes,Apodidae,Apus,Common Swift,1,0
+30,Chloris chloris,Passeriformes,Fringillidae,Chloris,European Greenfinch,0,0
+31,Aegithalos caudatus,,,,Long-Tailed Tit,1,0
+32,Bubulcus ibis,Pelecaniformes,Ardeidae,Bubulcus,Western Cattle Egret,1,0
+33,Falco tinnunculus,Falconiformes,Falconidae,Falco,Tårnfalk,0,0
+34,Cyanistes caeruleus,Passeriformes,Paridae,Cyanistes,Eurasian Blue Tit,1,0
+35,Gallinula chloropus,Gruiformes,Rallidae,Gallinula,Common Moorhen,0,0
+36,Garrulus glandarius,Passeriformes,Corvidae,Garrulus,Eurasian Jay,0,0
+37,Picus viridis,Piciformes,Picidae,Picus,Grønspætte,0,0
+38,Certhia brachydactyla,Passeriformes,Certhiidae,Certhia,Short-Toed Treecreeper,1,0
+39,Actitis hypoleucos,Charadriiformes,Scolopacidae,Actitis,Common Sandpiper,1,0
+40,Egretta garzetta,Pelecaniformes,Ardeidae,Egretta,Little Egret,1,0
+41,Passer hispaniolensis,Passeriformes,Passeridae,Passer,Spanish Sparrow,0,0
+42,Periparus ater,Passeriformes,Paridae,Periparus,Coal Tit,0,0
+43,Phalacrocorax carbo,Suliformes,Phalacrocoracidae,Phalacrocorax,Great Cormorant,0,0
+44,Anthus spinoletta,Passeriformes,Motacillidae,Anthus,Water Pipit,1,0
+45,Passer montanus,Passeriformes,Passeridae,Passer,Eurasian Tree Sparrow,0,0
+46,Ciconia ciconia,Ciconiiformes,Ciconiidae,Ciconia,White Stork,1,0
+47,Cettia cetti,Passeriformes,Cettiidae,Cettia,Cetti's Warbler,1,0
+48,Phylloscopus canariensis,Passeriformes,Phylloscopidae,Phylloscopus,Canary Islands Chiffchaff,0,0
+49,Myiopsitta monachus,Psittaciformes,Psittacidae,Myiopsitta,Munkeparakit,0,1
+50,Estrilda astrild,Passeriformes,Estrildidae,Estrilda,Common Waxbill,0,0
+51,Serinus canaria,Passeriformes,Fringillidae,Serinus,Island Canary,0,0
+52,Luscinia megarhynchos,Passeriformes,Muscicapidae,Luscinia,Common Nightingale,0,0
+53,Emberiza cirlus,Passeriformes,Emberizidae,Emberiza,Cirl Bunting,1,0
+54,Alcedo atthis,Coraciiformes,Alcedinidae,Alcedo,Common Kingfisher,1,0
+55,Linaria cannabina,Passeriformes,Fringillidae,Linaria,Eurasian Linnet,0,0
+56,Phasianus colchicus,Galliformes,Phasianidae,Phasianus,Fasan,0,0
+57,Milvus milvus,Accipitriformes,Accipitridae,Milvus,Red Kite,0,0
+58,Ptyonoprogne rupestris,Passeriformes,Hirundinidae,Ptyonoprogne,Eurasian Crag-Martin,0,0
+59,Ficedula hypoleuca,Passeriformes,Muscicapidae,Ficedula,European Pied Flycatcher,0,0
+60,Sylvia borin,Passeriformes,Sylviidae,Sylvia,Garden Warbler,0,0
+61,Himantopus himantopus,Charadriiformes,Recurvirostridae,Himantopus,Stylteløber,0,0
+62,Accipiter nisus,Accipitriformes,Accipitridae,Accipiter,Eurasian Sparrowhawk,1,0
+63,Galerida cristata,Passeriformes,Alaudidae,Galerida,Crested Lark,0,0
+64,Milvus migrans,Accipitriformes,Accipitridae,Milvus,Black Kite,0,0
+65,Sylvia melanocephala,Passeriformes,Sylviidae,Sylvia,Sardinian Warbler,0,0
+66,Corvus frugilegus,Passeriformes,Corvidae,Corvus,Rook,0,0
+67,Sitta europaea,Passeriformes,Sittidae,Sitta,Eurasian Nuthatch,0,0
+68,Phylloscopus ibericus,Passeriformes,Phylloscopidae,Phylloscopus,Iberian Chiffchaff,0,0
+69,Streptopelia turtur,Columbiformes,Columbidae,Streptopelia,European Turtle Dove,0,0
+70,Anthus pratensis,Passeriformes,Motacillidae,Anthus,Meadow/Water Pipit,1,0
+71,Lanius meridionalis,Passeriformes,Laniidae,Lanius,Sydlig Stor Tornskade,0,0
+72,Hieraaetus pennatus,Accipitriformes,Accipitridae,Hieraaetus,Booted Eagle,0,0
+73,Charadrius dubius,Charadriiformes,Charadriidae,Charadrius,Little Ringed Plover,1,0
+74,Fulica atra,Gruiformes,Rallidae,Fulica,Eurasian Coot,0,0
+75,Cisticola juncidis,Passeriformes,Cisticolidae,Cisticola,Zitting Cisticola,1,0
+76,Columba oenas,Columbiformes,Columbidae,Columba,Stock Dove,0,0
+77,Corvus corax,Passeriformes,Corvidae,Corvus,Common Raven,0,0
+78,Alectoris rufa,Galliformes,Phasianidae,Alectoris,Rødhøne,0,0
+79,Emberiza calandra,Passeriformes,Emberizidae,Emberiza,Bomlærke,0,0
+80,Falco peregrinus,Falconiformes,Falconidae,Falco,Vandrefalk,0,0
+81,Merops apiaster,Coraciiformes,Meropidae,Merops,European Bee-Eater,0,0
+82,Circus aeruginosus,Accipitriformes,Accipitridae,Circus,Western Marsh Harrier,1,0
+83,Dendrocopos major,Piciformes,Picidae,Dendrocopos,Stor Flagspætte,1,0
+84,Tringa ochropus,Charadriiformes,Scolopacidae,Tringa,Green Sandpiper,0,0
+85,Muscicapa striata,Passeriformes,Muscicapidae,Muscicapa,Spotted Flycatcher,0,0
+86,Gyps fulvus,Accipitriformes,Accipitridae,Gyps,Eurasian Griffon,0,0
+87,Oxyura leucocephala,Anseriformes,Anatidae,Oxyura,White-Headed Duck,0,0
+88,Spinus spinus,Passeriformes,Fringillidae,Spinus,Eurasian Siskin,0,0
+89,Coloeus monedula,Passeriformes,Corvidae,Coloeus,Allike,0,0
+90,Oriolus oriolus,Passeriformes,Oriolidae,Oriolus,Eurasian Golden Oriole,0,0
+91,Pyrrhula pyrrhula,Passeriformes,Fringillidae,Pyrrhula,Eurasian Bullfinch,0,0
+92,Apus unicolor,Apodiformes,Apodidae,Apus,Kanariseiler,1,0
+93,Spilopelia senegalensis,Columbiformes,Columbidae,Spilopelia,Laughing Dove,0,0
+94,Tachybaptus ruficollis,Podicipediformes,Podicipedidae,Tachybaptus,Little Grebe,0,0
+95,Tadorna tadorna,Anseriformes,Anatidae,Tadorna,Common Shelduck,0,0
+96,Petronia petronia,Passeriformes,Passeridae,Petronia,Rock Petronia,0,0
+97,Tachymarptis melba,Apodiformes,Apodidae,Tachymarptis,Alpesejler,0,0
+98,Ichthyaetus melanocephalus,Charadriiformes,Laridae,Ichthyaetus,Mediterranean Gull,0,0
+99,Anas clypeata,Anseriformes,Anatidae,Anas,Northern Shoveler,0,0
+100,Anthus berthelotii,Passeriformes,Motacillidae,Anthus,Berthelot's Pipit,1,0
+101,Ichthyaetus audouinii,Charadriiformes,Laridae,Ichthyaetus,Audouin's Gull,0,0
+102,Plegadis falcinellus,Pelecaniformes,Threskiornithidae,Plegadis,Glossy Ibis,0,0
+103,Turdus viscivorus,Passeriformes,Turdidae,Turdus,Mistle Thrush,0,0
+104,Phoenicopterus roseus,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,Greater Flamingo,0,0
+105,Psittacula krameri,Psittaciformes,Psittacidae,Psittacula,Halsbandparkiet,0,1
+106,Aythya ferina,Anseriformes,Anatidae,Aythya,Common Pochard,0,0
+107,Accipiter gentilis,Accipitriformes,Accipitridae,Accipiter,Northern Goshawk,1,0
+108,Cuculus canorus,Cuculiformes,Cuculidae,Cuculus,Gøg,1,0
+109,Lullula arborea,Passeriformes,Alaudidae,Lullula,Wood Lark,0,0
+110,Anser anser,Anseriformes,Anatidae,Anser,Graylag Goose,0,0
+111,Cecropis daurica,Passeriformes,Hirundinidae,Cecropis,,0,0
+112,Podiceps nigricollis,Podicipediformes,Podicipedidae,Podiceps,Eared Grebe,0,0
+113,Acrocephalus scirpaceus,Passeriformes,Acrocephalidae,Acrocephalus,Eurasian Reed Warbler,1,0
+114,Prunella modularis,Passeriformes,Prunellidae,Prunella,Dunnock,0,0
+115,Alauda arvensis,Passeriformes,Alaudidae,Alauda,Eurasian Skylark,0,0
+116,Lanius senator,Passeriformes,Laniidae,Lanius,Rødhovedet Tornskade,0,0
+117,Nycticorax nycticorax,Pelecaniformes,Ardeidae,Nycticorax,Black-Crowned Night Heron,0,0
+118,Netta rufina,Anseriformes,Anatidae,Netta,Red-Crested Pochard,0,0
+119,Jynx torquilla,Piciformes,Picidae,Jynx,Vendehals,0,0
+120,Athene noctua,Strigiformes,Strigidae,Athene,Little Owl,1,0
+121,Poecile palustris,Passeriformes,Paridae,Poecile,Marsh Tit,0,0
+122,Phylloscopus bonelli,Passeriformes,Phylloscopidae,Phylloscopus,Western Bonelli's Warbler,0,0
+123,Emberiza cia,Passeriformes,Emberizidae,Emberiza,Rock Bunting,1,0
+124,Burhinus oedicnemus,Charadriiformes,Burhinidae,Burhinus,Triel,0,0
+125,Phylloscopus trochilus,Passeriformes,Phylloscopidae,Phylloscopus,Willow Warbler,0,0
+126,Anas crecca,Anseriformes,Anatidae,Anas,Čiksa,0,0
+127,Neophron percnopterus,Accipitriformes,Accipitridae,Neophron,Egyptian Vulture,0,0
+128,Numenius phaeopus,Charadriiformes,Scolopacidae,Numenius,Whimbrel,0,0
+129,Falco naumanni,Falconiformes,Falconidae,Falco,Lille Tårnfalk,0,0
+130,Motacilla flava,Passeriformes,Motacillidae,Motacilla,Western Yellow Wagtail,0,0
+131,Larus fuscus,Charadriiformes,Laridae,Larus,Lesser Black-Backed Gull,0,0
+132,Pyrrhocorax pyrrhocorax,Passeriformes,Corvidae,Pyrrhocorax,Red-Billed Chough,0,0
+133,Circaetus gallicus,Accipitriformes,Accipitridae,Circaetus,Short-Toed Snake-Eagle,1,0
+134,Calidris alba,Charadriiformes,Scolopacidae,Calidris,Drieteenstrandloper,1,0
+135,Cinclus cinclus,Passeriformes,Cinclidae,Cinclus,White-Throated Dipper,1,0
+136,Coccothraustes coccothraustes,Passeriformes,Fringillidae,Coccothraustes,Hawfinch,1,0
+137,Oenanthe oenanthe,Passeriformes,Muscicapidae,Oenanthe,Northern Wheatear,0,0
+138,Iduna opaca,Passeriformes,Acrocephalidae,Iduna,Western Olivaceous Warbler,0,0
+139,Galerida theklae,Passeriformes,Alaudidae,Galerida,Thekla's Lark,0,0
+140,Pernis apivorus,Accipitriformes,Accipitridae,Pernis,European Honey-Buzzard,0,0
+141,Hippolais polyglotta,Passeriformes,Acrocephalidae,Hippolais,Melodious Warbler,0,0
+142,Otus scops,Strigiformes,Strigidae,Otus,Eurasian Scops Owl,0,0
+143,Tyto alba,Strigiformes,Tytonidae,Tyto,Western Barn Owl,0,0
+144,Apus pallidus,Apodiformes,Apodidae,Apus,Gråsejler,1,0
+145,Dryobates minor,Piciformes,Picidae,Dryobates,Lille Flagspætte,0,0
+146,Porphyrio porphyrio,Gruiformes,Rallidae,Porphyrio,Western Swamphen,0,0
+147,Recurvirostra avosetta,Charadriiformes,Recurvirostridae,Recurvirostra,Klyde,0,0
+148,Thalasseus sandvicensis,Charadriiformes,Laridae,Thalasseus,Sandwich Tern,0,0
+149,Riparia riparia,Passeriformes,Hirundinidae,Riparia,Bank Swallow,0,0
+150,Streptopelia roseogrisea,Columbiformes,Columbidae,Streptopelia,African Collared Dove,0,1
+151,Cygnus olor,Anseriformes,Anatidae,Cygnus,Mute Swan,0,0
+152,Aegypius monachus,Accipitriformes,Accipitridae,Aegypius,Cinereous Vulture,1,0
+153,Coturnix coturnix,Galliformes,Phasianidae,Coturnix,Vagtel,0,0
+154,Gallinago gallinago,Charadriiformes,Scolopacidae,Gallinago,Common Snipe,0,0
+155,Sylvia communis,Passeriformes,Sylviidae,Sylvia,Greater Whitethroat,0,0
+156,Acrocephalus arundinaceus,,,,,1,0
+157,Vanellus vanellus,Charadriiformes,Charadriidae,Vanellus,Northern Lapwing,0,0
+158,Aquila chrysaetos,Accipitriformes,Accipitridae,Aquila,Golden Eagle,1,0
+159,Ixobrychus minutus,Pelecaniformes,Ardeidae,Ixobrychus,Little Bittern,0,0
+160,Podiceps cristatus,Podicipediformes,Podicipedidae,Podiceps,Great Crested Grebe,0,0
+161,Lophophanes cristatus,Passeriformes,Paridae,Lophophanes,Crested Tit,0,0
+162,Sturnus unicolor,Passeriformes,Sturnidae,Sturnus,Spotless Starling,0,0
+163,Phoenicurus phoenicurus,Passeriformes,Muscicapidae,Phoenicurus,Common Redstart,0,0
+164,Strix aluco,Strigiformes,Strigidae,Strix,Tawny Owl,0,0
+165,Arenaria interpres,Charadriiformes,Scolopacidae,Arenaria,Giripitu,1,0
+166,Monticola solitarius,,,Monticola,Blue Rock-Thrush,0,0
+167,Columba junoniae,Columbiformes,Columbidae,Columba,Laurel Pigeon,1,0
+168,Tringa totanus,Charadriiformes,Scolopacidae,Tringa,Common Redshank,0,0
+169,Anthus campestris,Passeriformes,Motacillidae,Anthus,Tawny Pipit,1,0
+170,Circus pygargus,Accipitriformes,Accipitridae,Circus,Montagu's Harrier,1,0
+171,Ardea purpurea,Pelecaniformes,Ardeidae,Ardea,Purple Heron,1,0
+172,Falco subbuteo,Falconiformes,Falconidae,Falco,Lærkefalk,0,0
+173,Regulus regulus,Passeriformes,Regulidae,Regulus,Goldcrest,0,0
+174,Anthus trivialis,Passeriformes,Motacillidae,Anthus,Tree Pipit,1,0
+175,Cyanopica cyanus,Passeriformes,Corvidae,Cyanopica,Azure-Winged Magpie,1,0
+176,Charadrius hiaticula,Charadriiformes,Charadriidae,Charadrius,Common Ringed Plover,1,0
+177,Cyanoliseus patagonus,Psittaciformes,Psittacidae,Cyanoliseus,Burrowing Parakeet / Burrowing Parrot,0,0
+178,Charadrius alexandrinus,Charadriiformes,Charadriidae,Charadrius,Kentish Plover,1,0
+179,Aquila adalberti,Accipitriformes,Accipitridae,Aquila,Spanish Eagle,1,0
+180,Tringa nebularia,Charadriiformes,Scolopacidae,Tringa,Common Greenshank,0,0
+181,Aythya nyroca,Anseriformes,Anatidae,Aythya,Ferruginous Duck,1,0
+182,Philomachus pugnax,Charadriiformes,Scolopacidae,Philomachus,Kemphaan,0,0
+183,Caprimulgus ruficollis,Caprimulgiformes,Caprimulgidae,Caprimulgus,Rødhalset Natravn,1,0
+184,Ardea alba,Pelecaniformes,Ardeidae,Ardea,Great Egret,0,0
+185,Grus grus,Gruiformes,Gruidae,Grus,Common Crane,0,0
+186,Platalea leucorodia,Pelecaniformes,Threskiornithidae,Platalea,Eurasian Spoonbill,0,0
+187,Corvus cornix,Passeriformes,Corvidae,Corvus,Hooded Crow,0,0
+188,Melanocorypha calandra,Passeriformes,Alaudidae,Melanocorypha,Calandra Lark,0,0
+189,Saxicola rubetra,Passeriformes,Muscicapidae,Saxicola,Whinchat,0,0
+190,Acrocephalus schoenobaenus,Passeriformes,Acrocephalidae,Acrocephalus,Sedge Warbler,1,0
+191,Estrilda troglodytes,Passeriformes,Estrildidae,Estrilda,Black-Rumped Waxbill,0,0
+192,Anas strepera,Anseriformes,Anatidae,Anas,Gadwall,0,0
+193,Luscinia svecica,Passeriformes,Muscicapidae,Luscinia,Bluethroat,0,0
+194,Oenanthe leucura,Passeriformes,Muscicapidae,Oenanthe,Black Wheatear,0,0
+195,Sturnus vulgaris,Passeriformes,Sturnidae,Sturnus,European Starling,0,0
+196,Pterocles alchata,Pteroclidiformes,Pteroclididae,Pterocles,Pin-Tailed Sandgrouse,0,0
+197,Circus cyaneus,Accipitriformes,Accipitridae,Circus,Hen Harrier,1,0
+198,Chlidonias hybrida,Charadriiformes,Laridae,Chlidonias,Whiskered Tern,0,0
+199,Limosa limosa,Charadriiformes,Scolopacidae,Limosa,Black-Tailed Godwit,0,0
+200,Tringa glareola,Charadriiformes,Scolopacidae,Tringa,Wood Sandpiper,0,0
+201,Emberiza schoeniclus,Passeriformes,Emberizidae,Emberiza,Reed Bunting,0,0
+202,Sylvia cantillans,Passeriformes,Sylviidae,Sylvia,Subalpine Warbler,0,0
+203,Acrocephalus melanopogon,Passeriformes,Acrocephalidae,Acrocephalus,Moustached Warbler,1,0
+204,Fringilla montifringilla,Passeriformes,Fringillidae,Fringilla,Brambling,0,0
+205,Clamator glandarius,Cuculiformes,Cuculidae,Clamator,Skadegøg,1,0
+206,Aythya fuligula,Anseriformes,Anatidae,Aythya,Tufted Duck,0,0
+207,Aix galericulata,Anseriformes,Anatidae,Aix,Mandarinčiksa,0,0
+208,Gallinula angulata,Gruiformes,Rallidae,Gallinula,Lesser Moorhen,0,0
+209,Lanius collurio,Passeriformes,Laniidae,Lanius,Rødrygget Tornskade,0,0
+210,Sterna hirundo,Charadriiformes,Laridae,Sterna,Common Tern,0,0
+211,Falco columbarius,Falconiformes,Falconidae,Falco,Dværgfalk,1,0
+212,Fulica cristata,Gruiformes,Rallidae,Fulica,Red-Knobbed Coot,0,0
+213,Rallus aquaticus,Gruiformes,Rallidae,Rallus,Water Rail,0,0
+214,Coracias garrulus,Coraciiformes,Coraciidae,Coracias,European Roller,1,0
+215,Dryocopus martius,Piciformes,Picidae,Dryocopus,Sortspætte,1,0
+216,Agapornis roseicollis,,,,Rosy-Faced Lovebird,0,0
+217,Nymphicus hollandicus,Psittaciformes,Psittacidae,Nymphicus,Cockatiel,0,0
+218,Pluvialis squatarola,Charadriiformes,Charadriidae,Pluvialis,Black-Bellied Plover,0,0
+219,Ardeola ralloides,Pelecaniformes,Ardeidae,Ardeola,Squacco Heron,1,0
+220,Falco eleonorae,Falconiformes,Falconidae,Falco,Eleonorafalk,1,0
+221,Chlidonias niger,Charadriiformes,Laridae,Chlidonias,Black Tern,1,0
+222,Gelochelidon nilotica,Charadriiformes,Laridae,Gelochelidon,Gull-Billed Tern,0,0
+223,Calidris ferruginea,Charadriiformes,Scolopacidae,Calidris,Curlew Sandpiper,0,0
+224,Calidris minuta,Charadriiformes,Scolopacidae,Calidris,Little Stint,1,0
+225,Calidris alpina,Charadriiformes,Scolopacidae,Calidris,Bonte Strandloper,1,0
+226,Numenius arquata,Charadriiformes,Scolopacidae,Numenius,Eurasian Curlew,0,0
+227,Lymnocryptes minimus,Charadriiformes,Scolopacidae,Lymnocryptes,Jack Snipe,0,0
+228,Phalacrocorax aristotelis,Suliformes,Phalacrocoracidae,Phalacrocorax,European Shag,0,0
+229,Ciconia nigra,Ciconiiformes,Ciconiidae,Ciconia,Black Stork,1,0
+230,Remiz pendulinus,Passeriformes,Remizidae,Remiz,Eurasian Penduline-Tit,0,0
+231,Emberiza citrinella,Passeriformes,Emberizidae,Emberiza,Yellowhammer,1,0
+232,Sylvia undata,Passeriformes,Sylviidae,Sylvia,Dartford Warbler,0,0
+233,Sylvia conspicillata,Passeriformes,Sylviidae,Sylvia,Spectacled Warbler,0,0
+234,Panurus biarmicus,Passeriformes,Panuridae,Panurus,Bearded Reedling,0,0
+235,Carduelis citrinella,Passeriformes,Fringillidae,Carduelis,Citril Finch,0,0
+236,Asio flammeus,Strigiformes,Strigidae,Asio,Short-Eared Owl,1,0
+237,Anas penelope,Anseriformes,Anatidae,Anas,Eurasian Wigeon,0,0
+238,Anas acuta,Anseriformes,Anatidae,Anas,Biekčavuojaš,0,0
+239,Marmaronetta angustirostris,Anseriformes,Anatidae,Marmaronetta,Marbled Teal,0,0
+240,Erythropygia galactotes,Passeriformes,Muscicapidae,Erythropygia,Rufous-Tailed Scrub Robin,0,0
+241,Aquila fasciata,Accipitriformes,Accipitridae,Aquila,Bonelli's Eagle,0,0
+242,Bubo bubo,Strigiformes,Strigidae,Bubo,Eurasian Eagle-Owl,1,0
+243,Phylloscopus sibillatrix,Passeriformes,Phylloscopidae,Phylloscopus,Bliedervillchen,0,0
