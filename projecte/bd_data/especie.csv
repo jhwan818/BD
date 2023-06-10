@@ -1,4 +1,4 @@
-,nombre,orden,familia,genus,nombre_comun,conservacion,invasivo,taxonConceptID,nombre2,subgenus,taxonRank
+,nombre,orden,familia,genus,nombre_comun,conservacion,invasivo,taxon_ID,segundo_nombre,subgenus,taxon_rank
 0,Motacilla alba,Passeriformes,Motacillidae,Motacilla,White Wagtail,0,0,9687165.0,,,species
 1,Passer domesticus,Passeriformes,Passeridae,Passer,House Sparrow,0,0,5231190.0,,,species
 2,Pica pica,Passeriformes,Corvidae,Pica,Eurasian Magpie,0,0,5229490.0,,,species
