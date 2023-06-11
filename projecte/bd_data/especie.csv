@@ -4,7 +4,7 @@
 2,Pica pica,Passeriformes,Corvidae,Pica,Eurasian Magpie,0,0,5229490.0,,,species
 3,Turdus merula,Passeriformes,Turdidae,Turdus,Eurasian Blackbird,0,0,2490719.0,,,species
 4,Columba palumbus,Columbiformes,Columbidae,Columba,Common Wood-Pigeon,0,0,2495455.0,,,species
-5,Anas platyrhynchos,Anseriformes,Anatidae,Anas,Bunásuorsá,0,0,9761484.0,,,species
+5,Anas platyrhynchos,Anseriformes,Anatidae,Anas,Bunsuors,0,0,9761484.0,,,species
 6,Motacilla cinerea,Passeriformes,Motacillidae,Motacilla,Gray Wagtail,0,0,2490310.0,,,species
 7,Phoenicurus ochruros,Passeriformes,Muscicapidae,Phoenicurus,Black Redstart,0,0,5739315.0,,,species
 8,Erithacus rubecula,Passeriformes,Muscicapidae,Erithacus,European Robin,1,0,2492462.0,,,species
@@ -32,11 +32,11 @@
 30,Chloris chloris,Passeriformes,Fringillidae,Chloris,European Greenfinch,0,0,5845582.0,Carduelis chloris,,species
 31,Aegithalos caudatus,,,,Long-Tailed Tit,1,0,2495000.0,,,species
 32,Bubulcus ibis,Pelecaniformes,Ardeidae,Bubulcus,Western Cattle Egret,1,0,2480830.0,,,species
-33,Falco tinnunculus,Falconiformes,Falconidae,Falco,Tårnfalk,0,0,9616058.0,,,species
+33,Falco tinnunculus,Falconiformes,Falconidae,Falco,Trnfalk,0,0,9616058.0,,,species
 34,Cyanistes caeruleus,Passeriformes,Paridae,Cyanistes,Eurasian Blue Tit,1,0,2487879.0,,,species
 35,Gallinula chloropus,Gruiformes,Rallidae,Gallinula,Common Moorhen,0,0,5228199.0,,,species
 36,Garrulus glandarius,Passeriformes,Corvidae,Garrulus,Eurasian Jay,0,0,5229493.0,,,species
-37,Picus viridis,Piciformes,Picidae,Picus,Grønspætte,0,0,2478523.0,,,species
+37,Picus viridis,Piciformes,Picidae,Picus,Grnsptte,0,0,2478523.0,,,species
 38,Certhia brachydactyla,Passeriformes,Certhiidae,Certhia,Short-Toed Treecreeper,1,0,7806848.0,,,species
 39,Actitis hypoleucos,Charadriiformes,Scolopacidae,Actitis,Common Sandpiper,1,0,2481800.0,,,species
 40,Egretta garzetta,Pelecaniformes,Ardeidae,Egretta,Little Egret,1,0,2480876.0,,,species
@@ -60,7 +60,7 @@
 58,Ptyonoprogne rupestris,Passeriformes,Hirundinidae,Ptyonoprogne,Eurasian Crag-Martin,0,0,4408796.0,,,species
 59,Ficedula hypoleuca,Passeriformes,Muscicapidae,Ficedula,European Pied Flycatcher,0,0,2492606.0,,,species
 60,Sylvia borin,Passeriformes,Sylviidae,Sylvia,Garden Warbler,0,0,2492942.0,,,species
-61,Himantopus himantopus,Charadriiformes,Recurvirostridae,Himantopus,Stylteløber,0,0,5229126.0,,,species
+61,Himantopus himantopus,Charadriiformes,Recurvirostridae,Himantopus,Styltelber,0,0,5229126.0,,,species
 62,Accipiter nisus,Accipitriformes,Accipitridae,Accipiter,Eurasian Sparrowhawk,1,0,2480637.0,,,species
 63,Galerida cristata,Passeriformes,Alaudidae,Galerida,Crested Lark,0,0,2490669.0,,,species
 64,Milvus migrans,Accipitriformes,Accipitridae,Milvus,Black Kite,0,0,5229167.0,,,species
@@ -77,12 +77,12 @@
 75,Cisticola juncidis,Passeriformes,Cisticolidae,Cisticola,Zitting Cisticola,1,0,2492822.0,,,species
 76,Columba oenas,Columbiformes,Columbidae,Columba,Stock Dove,0,0,2495471.0,,,species
 77,Corvus corax,Passeriformes,Corvidae,Corvus,Common Raven,0,0,2482492.0,,,species
-78,Alectoris rufa,Galliformes,Phasianidae,Alectoris,Rødhøne,0,0,2474051.0,,,species
-79,Emberiza calandra,Passeriformes,Emberizidae,Emberiza,Bomlærke,0,0,7634625.0,Miliaria calandra,,species
+78,Alectoris rufa,Galliformes,Phasianidae,Alectoris,Rdhne,0,0,2474051.0,,,species
+79,Emberiza calandra,Passeriformes,Emberizidae,Emberiza,Bomlrke,0,0,7634625.0,Miliaria calandra,,species
 80,Falco peregrinus,Falconiformes,Falconidae,Falco,Vandrefalk,0,0,2481047.0,,,species
 81,Merops apiaster,Coraciiformes,Meropidae,Merops,European Bee-Eater,0,0,2475443.0,,,species
 82,Circus aeruginosus,Accipitriformes,Accipitridae,Circus,Western Marsh Harrier,1,0,2480482.0,,,species
-83,Dendrocopos major,Piciformes,Picidae,Dendrocopos,Stor Flagspætte,1,0,2477968.0,,,species
+83,Dendrocopos major,Piciformes,Picidae,Dendrocopos,Stor Flagsptte,1,0,2477968.0,,,species
 84,Tringa ochropus,Charadriiformes,Scolopacidae,Tringa,Green Sandpiper,0,0,2481728.0,,,species
 85,Muscicapa striata,Passeriformes,Muscicapidae,Muscicapa,Spotted Flycatcher,0,0,2492576.0,,,species
 86,Gyps fulvus,Accipitriformes,Accipitridae,Gyps,Eurasian Griffon,0,0,2480389.0,,,species
@@ -107,7 +107,7 @@
 105,Psittacula krameri,Psittaciformes,Psittacidae,Psittacula,Halsbandparkiet,0,1,2479226.0,,,species
 106,Aythya ferina,Anseriformes,Anatidae,Aythya,Common Pochard,0,0,2498255.0,,,species
 107,Accipiter gentilis,Accipitriformes,Accipitridae,Accipiter,Northern Goshawk,1,0,2480589.0,,,species
-108,Cuculus canorus,Cuculiformes,Cuculidae,Cuculus,Gøg,1,0,5231918.0,,,species
+108,Cuculus canorus,Cuculiformes,Cuculidae,Cuculus,Gg,1,0,5231918.0,,,species
 109,Lullula arborea,Passeriformes,Alaudidae,Lullula,Wood Lark,0,0,2490604.0,,,species
 110,Anser anser,Anseriformes,Anatidae,Anser,Graylag Goose,0,0,2498036.0,,,species
 111,Cecropis daurica,Passeriformes,Hirundinidae,Cecropis,,0,0,9717283.0,,,species
@@ -115,7 +115,7 @@
 113,Acrocephalus scirpaceus,Passeriformes,Acrocephalidae,Acrocephalus,Eurasian Reed Warbler,1,0,2493118.0,,,species
 114,Prunella modularis,Passeriformes,Prunellidae,Prunella,Dunnock,0,0,5231763.0,,,species
 115,Alauda arvensis,Passeriformes,Alaudidae,Alauda,Eurasian Skylark,0,0,8077224.0,,,species
-116,Lanius senator,Passeriformes,Laniidae,Lanius,Rødhovedet Tornskade,0,0,2492867.0,,,species
+116,Lanius senator,Passeriformes,Laniidae,Lanius,Rdhovedet Tornskade,0,0,2492867.0,,,species
 117,Nycticorax nycticorax,Pelecaniformes,Ardeidae,Nycticorax,Black-Crowned Night Heron,0,0,2480863.0,,,species
 118,Netta rufina,Anseriformes,Anatidae,Netta,Red-Crested Pochard,0,0,2498180.0,,,species
 119,Jynx torquilla,Piciformes,Picidae,Jynx,Vendehals,0,0,8012314.0,,,species
@@ -125,10 +125,10 @@
 123,Emberiza cia,Passeriformes,Emberizidae,Emberiza,Rock Bunting,1,0,2491498.0,,,species
 124,Burhinus oedicnemus,Charadriiformes,Burhinidae,Burhinus,Triel,0,0,2482100.0,,,species
 125,Phylloscopus trochilus,Passeriformes,Phylloscopidae,Phylloscopus,Willow Warbler,0,0,2493052.0,,,species
-126,Anas crecca,Anseriformes,Anatidae,Anas,Čiksa,0,0,8214667.0,,,species
+126,Anas crecca,Anseriformes,Anatidae,Anas,iksa,0,0,8214667.0,,,species
 127,Neophron percnopterus,Accipitriformes,Accipitridae,Neophron,Egyptian Vulture,0,0,2480696.0,,,species
 128,Numenius phaeopus,Charadriiformes,Scolopacidae,Numenius,Whimbrel,0,0,2481784.0,,,species
-129,Falco naumanni,Falconiformes,Falconidae,Falco,Lille Tårnfalk,0,0,9584698.0,,,species
+129,Falco naumanni,Falconiformes,Falconidae,Falco,Lille Trnfalk,0,0,9584698.0,,,species
 130,Motacilla flava,Passeriformes,Motacillidae,Motacilla,Western Yellow Wagtail,0,0,9701857.0,,,species
 131,Larus fuscus,Charadriiformes,Laridae,Larus,Lesser Black-Backed Gull,0,0,2481174.0,,,species
 132,Pyrrhocorax pyrrhocorax,Passeriformes,Corvidae,Pyrrhocorax,Red-Billed Chough,0,0,2482552.0,,,species
@@ -143,8 +143,8 @@
 141,Hippolais polyglotta,Passeriformes,Acrocephalidae,Hippolais,Melodious Warbler,0,0,2493214.0,,,species
 142,Otus scops,Strigiformes,Strigidae,Otus,Eurasian Scops Owl,0,0,2497701.0,,,species
 143,Tyto alba,Strigiformes,Tytonidae,Tyto,Western Barn Owl,0,0,2497921.0,,,species
-144,Apus pallidus,Apodiformes,Apodidae,Apus,Gråsejler,1,0,5228695.0,,,species
-145,Dryobates minor,Piciformes,Picidae,Dryobates,Lille Flagspætte,0,0,9015784.0,Dendrocopos minor,,species
+144,Apus pallidus,Apodiformes,Apodidae,Apus,Grsejler,1,0,5228695.0,,,species
+145,Dryobates minor,Piciformes,Picidae,Dryobates,Lille Flagsptte,0,0,9015784.0,Dendrocopos minor,,species
 146,Porphyrio porphyrio,Gruiformes,Rallidae,Porphyrio,Western Swamphen,0,0,2474416.0,,,species
 147,Recurvirostra avosetta,Charadriiformes,Recurvirostridae,Recurvirostra,Klyde,0,0,2480259.0,,,species
 148,Thalasseus sandvicensis,Charadriiformes,Laridae,Thalasseus,Sandwich Tern,0,0,2481240.0,Sterna sandvicensis,,species
@@ -171,7 +171,7 @@
 169,Anthus campestris,Passeriformes,Motacillidae,Anthus,Tawny Pipit,1,0,2490274.0,,,species
 170,Circus pygargus,Accipitriformes,Accipitridae,Circus,Montagu's Harrier,1,0,2480495.0,,,species
 171,Ardea purpurea,Pelecaniformes,Ardeidae,Ardea,Purple Heron,1,0,2480934.0,,,species
-172,Falco subbuteo,Falconiformes,Falconidae,Falco,Lærkefalk,0,0,2481035.0,,,species
+172,Falco subbuteo,Falconiformes,Falconidae,Falco,Lrkefalk,0,0,2481035.0,,,species
 173,Regulus regulus,Passeriformes,Regulidae,Regulus,Goldcrest,0,0,2484596.0,,,species
 174,Anthus trivialis,Passeriformes,Motacillidae,Anthus,Tree Pipit,1,0,2490246.0,,,species
 175,Cyanopica cyanus,Passeriformes,Corvidae,Cyanopica,Azure-Winged Magpie,1,0,7341881.0,,,species
@@ -182,7 +182,7 @@
 180,Tringa nebularia,Charadriiformes,Scolopacidae,Tringa,Common Greenshank,0,0,2481726.0,,,species
 181,Aythya nyroca,Anseriformes,Anatidae,Aythya,Ferruginous Duck,1,0,2498259.0,,,species
 182,Philomachus pugnax,Charadriiformes,Scolopacidae,Philomachus,Kemphaan,0,0,5229387.0,,,species
-183,Caprimulgus ruficollis,Caprimulgiformes,Caprimulgidae,Caprimulgus,Rødhalset Natravn,1,0,9411857.0,,,species
+183,Caprimulgus ruficollis,Caprimulgiformes,Caprimulgidae,Caprimulgus,Rdhalset Natravn,1,0,9411857.0,,,species
 184,Ardea alba,Pelecaniformes,Ardeidae,Ardea,Great Egret,0,0,9752617.0,Egretta alba,,species
 185,Grus grus,Gruiformes,Gruidae,Grus,Common Crane,0,0,2474950.0,,,species
 186,Platalea leucorodia,Pelecaniformes,Threskiornithidae,Platalea,Eurasian Spoonbill,0,0,2480801.0,,,species
@@ -204,17 +204,17 @@
 202,Sylvia cantillans,Passeriformes,Sylviidae,Sylvia,Subalpine Warbler,0,0,2492950.0,,,species
 203,Acrocephalus melanopogon,Passeriformes,Acrocephalidae,Acrocephalus,Moustached Warbler,1,0,2493124.0,,,species
 204,Fringilla montifringilla,Passeriformes,Fringillidae,Fringilla,Brambling,0,0,2494441.0,,,species
-205,Clamator glandarius,Cuculiformes,Cuculidae,Clamator,Skadegøg,1,0,2496464.0,,,species
+205,Clamator glandarius,Cuculiformes,Cuculidae,Clamator,Skadegg,1,0,2496464.0,,,species
 206,Aythya fuligula,Anseriformes,Anatidae,Aythya,Tufted Duck,0,0,2498261.0,,,species
-207,Aix galericulata,Anseriformes,Anatidae,Aix,Mandarinčiksa,0,0,2498388.0,,,species
+207,Aix galericulata,Anseriformes,Anatidae,Aix,Mandariniksa,0,0,2498388.0,,,species
 208,Gallinula angulata,Gruiformes,Rallidae,Gallinula,Lesser Moorhen,0,0,5228198.0,,,species
-209,Lanius collurio,Passeriformes,Laniidae,Lanius,Rødrygget Tornskade,0,0,7745240.0,,,species
+209,Lanius collurio,Passeriformes,Laniidae,Lanius,Rdrygget Tornskade,0,0,7745240.0,,,species
 210,Sterna hirundo,Charadriiformes,Laridae,Sterna,Common Tern,0,0,9367409.0,,,species
-211,Falco columbarius,Falconiformes,Falconidae,Falco,Dværgfalk,1,0,9813242.0,,,species
+211,Falco columbarius,Falconiformes,Falconidae,Falco,Dvrgfalk,1,0,9813242.0,,,species
 212,Fulica cristata,Gruiformes,Rallidae,Fulica,Red-Knobbed Coot,0,0,2474381.0,,,species
 213,Rallus aquaticus,Gruiformes,Rallidae,Rallus,Water Rail,0,0,2474831.0,,,species
 214,Coracias garrulus,Coraciiformes,Coraciidae,Coracias,European Roller,1,0,2475365.0,,,species
-215,Dryocopus martius,Piciformes,Picidae,Dryocopus,Sortspætte,1,0,2477872.0,,,species
+215,Dryocopus martius,Piciformes,Picidae,Dryocopus,Sortsptte,1,0,2477872.0,,,species
 216,Agapornis roseicollis,,,,Rosy-Faced Lovebird,0,0,2479550.0,,,species
 217,Nymphicus hollandicus,Psittaciformes,Psittacidae,Nymphicus,Cockatiel,0,0,2479977.0,,,species
 218,Pluvialis squatarola,Charadriiformes,Charadriidae,Pluvialis,Black-Bellied Plover,0,0,2480327.0,,,species
@@ -237,13 +237,13 @@
 235,Carduelis citrinella,Passeriformes,Fringillidae,Carduelis,Citril Finch,0,0,2494632.0,,,species
 236,Asio flammeus,Strigiformes,Strigidae,Asio,Short-Eared Owl,1,0,2497295.0,,,species
 237,Anas penelope,Anseriformes,Anatidae,Anas,Eurasian Wigeon,0,0,2498111.0,,,species
-238,Anas acuta,Anseriformes,Anatidae,Anas,Biekčavuojaš,0,0,2498112.0,,,species
+238,Anas acuta,Anseriformes,Anatidae,Anas,Biekavuoja,0,0,2498112.0,,,species
 239,Marmaronetta angustirostris,Anseriformes,Anatidae,Marmaronetta,Marbled Teal,0,0,2498390.0,,,species
 240,Erythropygia galactotes,Passeriformes,Muscicapidae,Erythropygia,Rufous-Tailed Scrub Robin,0,0,5788860.0,Cercotrichas galactotes,,species
 241,Aquila fasciata,Accipitriformes,Accipitridae,Aquila,Bonelli's Eagle,0,0,5844449.0,,,species
 242,Bubo bubo,Strigiformes,Strigidae,Bubo,Eurasian Eagle-Owl,1,0,5959092.0,,,species
 243,Phylloscopus sibillatrix,Passeriformes,Phylloscopidae,Phylloscopus,Bliedervillchen,0,0,8128385.0,Phylloscopus sibilatrix,,species
 244,Sturnus,Passeriformes,Sturnidae,Sturnus,Estornino,0,0,2489099.0,,,genus
-245,Hirundo daurica,Passeriformes,Hirundinidae,Cecropis,Golondrina común,0,0,9717283.0,Cecropis daurica,,species
-246,Cethia brachydactyla,,,,Agateador común,0,0,212.0,Aves,,class
-247,Falco pelegrinoides,Falconiformes,Falconidae,Falco,Halcón tagarote,1,0,2481058.0,,,species
+245,Hirundo daurica,Passeriformes,Hirundinidae,Cecropis,Golondrina comn,0,0,9717283.0,Cecropis daurica,,species
+246,Cethia brachydactyla,,,,Agateador comn,0,0,212.0,Aves,,class
+247,Falco pelegrinoides,Falconiformes,Falconidae,Falco,Halcn tagarote,1,0,2481058.0,,,species
